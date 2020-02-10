@@ -1,0 +1,22 @@
+hi {
+  color: blue;
+  text-align: center;
+}
+p{
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px
+}
+img {
+  float: left;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: blue;
+}
+.column {
+  width: 350 px;
+  float: left;
+}
